@@ -11,7 +11,7 @@ The Neural network model contains input layer,two hidden layers and output layer
 ![Screenshot 2022-08-29 002834](https://user-images.githubusercontent.com/75235789/187090749-0f8869c0-9835-4fc9-946c-e79833abcfaf.jpg)
 
 
-
+<br></br> 
 ## DESIGN STEPS
 
 ### STEP 1:
